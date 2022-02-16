@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 10c9e970-48ad-6caf-3541-bad0a47c3a0a
 ---
@@ -28,7 +30,7 @@ Functional analysis helps to solve problems where the vector space is no longer 
 *   Lebesgue measure,
 *   measurable functions,
 *   integrability,
-*   completeness of Lp spaces,
+*   completeness of L{{< sup "p" >}} spaces,
 *   Hilbert space,
 *   compact and self-adjoint operators, as well as
 *   the spectral theorem.

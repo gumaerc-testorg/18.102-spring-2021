@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lecture Notes and Readings
 uid: f3f68fed-37d7-454c-871a-929d452ffe96
 ---
@@ -148,12 +150,12 @@ Week 8
 
 Reading: \[RM\] Chapter 3, Sections 1–4
 
-[Lecture 13: Lp Space Theory (PDF)]({{< baseurl >}}/resources/mit18_102s21_lec13)
+[Lecture 13: L{{< sup "p" >}} Space Theory (PDF)]({{< baseurl >}}/resources/mit18_102s21_lec13)
 
-[Lecture 13: Lp Space Theory (TEX)]({{< baseurl >}}/resources/mit18_102s21_lec13-1)
+[Lecture 13: L{{< sup "p" >}} Space Theory (TEX)]({{< baseurl >}}/resources/mit18_102s21_lec13-1)
 
-*   The definition of Lp spaces
-*   The completeness of Lp spaces
+*   The definition of L{{< sup "p" >}} spaces
+*   The completeness of L{{< sup "p" >}} spaces
 *   Pre-Hilbert spaces and the Cauchy-Schwarz inequality
 
 [Lecture 14: Basic Hilbert Space Theory (PDF)]({{< baseurl >}}/resources/mit18_102s21_lec14)
