@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Readings
 parent_type: CourseSection
+parent_uid: f3f68fed-37d7-454c-871a-929d452ffe96
 resourcetype: Other
 title: MIT18_102s21_notes.zip
 uid: f5497ac7-1068-9585-74bb-ff00d8c4ec00

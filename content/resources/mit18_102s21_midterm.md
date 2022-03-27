@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e46c9ff1-a75e-2f9c-e70c-8614b6621b93
 resourcetype: Document
 title: 18.102 S2021 Midterm Exam
 uid: 7720fe59-0b77-3188-648d-100c22969cd0

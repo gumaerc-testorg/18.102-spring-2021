@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lecture Notes and Readings
 parent_type: CourseSection
+parent_uid: f3f68fed-37d7-454c-871a-929d452ffe96
 resourcetype: Image
 title: fejer.PNG
 uid: 36aa89a4-cb53-aec3-e1b3-8ae2924b2c2d
