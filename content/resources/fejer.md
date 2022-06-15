@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-102-introduction-to-functional-analysis-spring-2021/36aa89a4cb53aec3e1b38ae2924b2c2d_fejer.PNG
+file: /courses/18-102-introduction-to-functional-analysis-spring-2021/36aa89a4cb53aec3e1b38ae2924b2c2d_fejer.PNG
 file_type: image/png
 image_metadata:
   caption: ''

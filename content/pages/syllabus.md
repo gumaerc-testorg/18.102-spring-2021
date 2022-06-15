@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information on prerequisites, textbooks, assignments,
+  and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +16,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011/), [_18.700 Linear Algebra_](/courses/18-700-linear-algebra-fall-2013/), or [_18.701 Algebra I_](/courses/18-701-algebra-i-fall-2010/); and [_18.100A Introduction to Analysis_](/courses/18-100a-introduction-to-analysis-fall-2012/), [_18.100B Analysis I_](/courses/18-100b-analysis-i-fall-2010/), _18.100P Real Analysis_, or _18.100Q Real Analysis_; or permission of the instructor.
+[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011), [_18.700 Linear Algebra_](/courses/18-700-linear-algebra-fall-2013), or [_18.701 Algebra I_](/courses/18-701-algebra-i-fall-2010); and [_18.100A Introduction to Analysis_](/courses/18-100a-introduction-to-analysis-fall-2012), [_18.100B Analysis I_](/courses/18-100b-analysis-i-fall-2010), _18.100P Real Analysis_, or _18.100Q Real Analysis_; or permission of the instructor.
 
 Description
 -----------
@@ -40,7 +42,7 @@ Textbooks and Notes
 
 There is no assigned textbook for this course. Instead, we will follow lecture notes written by Professor Richard Melrose when he taught the course in 2020, as well as lecture notes taken by an MIT student who took the class with Dr. Rodriguez in 2021.
 
-These can be found in the [Lecture Notes and Readings]({{< baseurl >}}/pages/lecture-notes-and-readings) section.
+These can be found in the {{% resource_link f3f68fed-37d7-454c-871a-929d452ffe96 "Lecture Notes and Readings" %}} section.
 
 Assignments
 -----------

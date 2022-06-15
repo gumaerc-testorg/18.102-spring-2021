@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-102-introduction-to-functional-analysis-spring-2021/f5497ac71068958574bbff00d8c4ec00_MIT18_102s21_notes.zip
+file: /courses/18-102-introduction-to-functional-analysis-spring-2021/f5497ac71068958574bbff00d8c4ec00_MIT18_102s21_notes.zip
 file_type: application/zip
 learning_resource_types: []
 ocw_type: OCWFile
