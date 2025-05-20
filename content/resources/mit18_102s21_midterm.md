@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/7720fe590b773188648d100c22969cd0_MIT18_102s21_midterm.pdf
+file: http://10.1.0.100:9000/ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/7720fe590b773188648d100c22969cd0_MIT18_102s21_midterm.pdf
 file_size: 218934
 file_type: application/pdf
 learning_resource_types:
