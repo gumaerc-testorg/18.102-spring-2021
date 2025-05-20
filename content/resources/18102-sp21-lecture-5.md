@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/18102-sp21-lecture-5_360p_16_9.mp4
+file: http://10.1.0.100:9000/ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/18102-sp21-lecture-5_360p_16_9.mp4
 file_size: 124450716
 file_type: video/mp4
 image_metadata:
