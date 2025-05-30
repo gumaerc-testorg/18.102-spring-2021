@@ -59,5 +59,3 @@ Final Assignment
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Final letter grade cutoffs will be less than or equal to the “standard cutoffs,” e.g. 90 for A, 80 for B, etc.
-
-{{% resource_link "c4dd01c3-4753-4603-b706-a578da185344" "Google" %}}
