@@ -59,3 +59,7 @@ Final Assignment
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Final letter grade cutoffs will be less than or equal to the “standard cutoffs,” e.g. 90 for A, 80 for B, etc.
+
+ 
+
+{{% resource_link "eb093c00-9d22-417d-b6b0-ebb0f6f108de" "MIT Learn" %}}
