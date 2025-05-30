@@ -62,4 +62,4 @@ Final letter grade cutoffs will be less than or equal to the “standard cutoffs
 
  
 
-{{% resource_link "eb093c00-9d22-417d-b6b0-ebb0f6f108de" "MIT" %}}
+MIT
