@@ -14,7 +14,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 
-[*18.06 Linear Algebra*](/courses/18-06sc-linear-algebra-fall-2011), [*18.700 Linear Algebra*](/courses/18-700-linear-algebra-fall-2013), or [*18.701 Algebra I*](/courses/18-701-algebra-i-fall-2010); and [*18.100A Introduction to Analysis*](/courses/18-100a-introduction-to-analysis-fall-2012), [*18.100B Analysis I*](/courses/18-100b-analysis-i-fall-2010), *18.100P Real Analysis*, or *18.100Q Real Analysis*; or permission of the instructor.
+[*18.06 Linear Algebra*](http://localhost:8043/courses/18-06sc-linear-algebra-fall-2011), [*18.700 Linear Algebra*](http://localhost:8043/courses/18-700-linear-algebra-fall-2013), or [*18.701 Algebra I*](http://localhost:8043/courses/18-701-algebra-i-fall-2010); and [*18.100A Introduction to Analysis*](http://localhost:8043/courses/18-100a-introduction-to-analysis-fall-2012), [*18.100B Analysis I*](http://localhost:8043/courses/18-100b-analysis-i-fall-2010), *18.100P Real Analysis*, or *18.100Q Real Analysis*; or permission of the instructor.
 
 ## Description
 
@@ -59,3 +59,7 @@ Final Assignment
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Final letter grade cutoffs will be less than or equal to the “standard cutoffs,” e.g. 90 for A, 80 for B, etc.
+
+{{% resource_link "abe4aa11-3bf2-41a5-8cf6-1c0dc457d6f2" "MIT Learn" %}}
+
+{{% resource_link "a18e7fc4-fe55-4c0b-8df7-6585a968ff5b" "MITx Online" %}}
