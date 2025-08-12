@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/18-102-introduction-to-functional-analysis-spring-2021/18102-sp21-lecture-6_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/18102-sp21-lecture-6_360p_16_9.mp4
 file_size: 140600483
 file_type: video/mp4
 image_metadata:
