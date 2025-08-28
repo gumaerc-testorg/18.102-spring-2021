@@ -2,23 +2,23 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/218774a5403e76777d65376a03d163fc_MIT18_102s21_lec14.tex
-file_size: 16420
-file_type: text/x-tex
+file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/ede0e9d0812d4b602efafe3ca879b19f_MIT18_102s21_lec9.pdf
+file_size: 265463
+file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Editable Files
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Readings
 parent_type: CourseSection
 parent_uid: f3f68fed-37d7-454c-871a-929d452ffe96
-resourcetype: Other
-title: MIT18_102s21_lec14.tex
-uid: 218774a5-403e-7677-7d65-376a03d163fc
+resourcetype: Document
+title: Lecture 9. Lebesgue Measurable Functions
+uid: ede0e9d0-812d-4b60-2efa-fe3ca879b19f
 video_files:
   archive_url: ''
   video_captions_file: ''

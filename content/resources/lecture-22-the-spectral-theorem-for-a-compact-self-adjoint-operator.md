@@ -2,23 +2,23 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/218774a5403e76777d65376a03d163fc_MIT18_102s21_lec14.tex
-file_size: 16420
-file_type: text/x-tex
+file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/57596554e180e442c9487f580303147b_MIT18_102s21_lec22.pdf
+file_size: 243809
+file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Editable Files
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Readings
 parent_type: CourseSection
 parent_uid: f3f68fed-37d7-454c-871a-929d452ffe96
-resourcetype: Other
-title: MIT18_102s21_lec14.tex
-uid: 218774a5-403e-7677-7d65-376a03d163fc
+resourcetype: Document
+title: Lecture 22. The Spectral Theorem for a Compact Self-Adjoint Operator
+uid: 57596554-e180-e442-c948-7f580303147b
 video_files:
   archive_url: ''
   video_captions_file: ''

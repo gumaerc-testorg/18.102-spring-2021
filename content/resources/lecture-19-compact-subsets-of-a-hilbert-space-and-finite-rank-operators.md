@@ -2,23 +2,23 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/218774a5403e76777d65376a03d163fc_MIT18_102s21_lec14.tex
-file_size: 16420
-file_type: text/x-tex
+file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/39ac233d5d7cbfffcdce8086143688f6_MIT18_102s21_lec19.pdf
+file_size: 239675
+file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Editable Files
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Readings
 parent_type: CourseSection
 parent_uid: f3f68fed-37d7-454c-871a-929d452ffe96
-resourcetype: Other
-title: MIT18_102s21_lec14.tex
-uid: 218774a5-403e-7677-7d65-376a03d163fc
+resourcetype: Document
+title: Lecture 19. Compact Subsets of a Hilbert Space and Finite-Rank Operators
+uid: 39ac233d-5d7c-bfff-cdce-8086143688f6
 video_files:
   archive_url: ''
   video_captions_file: ''
