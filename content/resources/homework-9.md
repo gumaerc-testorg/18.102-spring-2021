@@ -2,23 +2,23 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/218774a5403e76777d65376a03d163fc_MIT18_102s21_lec14.tex
-file_size: 16420
-file_type: text/x-tex
+file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/0f6a93291053589047c1a3311d3fc05a_MIT18_102s21_hw9.pdf
+file_size: 220797
+file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Editable Files
+- Written Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_title: Lecture Notes and Readings
+parent_title: Assignments
 parent_type: CourseSection
-parent_uid: f3f68fed-37d7-454c-871a-929d452ffe96
-resourcetype: Other
-title: MIT18_102s21_lec14.tex
-uid: 218774a5-403e-7677-7d65-376a03d163fc
+parent_uid: e46c9ff1-a75e-2f9c-e70c-8614b6621b93
+resourcetype: Document
+title: Homework 9
+uid: 0f6a9329-1053-5890-47c1-a3311d3fc05a
 video_files:
   archive_url: ''
   video_captions_file: ''

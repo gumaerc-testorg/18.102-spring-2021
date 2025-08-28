@@ -2,23 +2,23 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/218774a5403e76777d65376a03d163fc_MIT18_102s21_lec14.tex
-file_size: 16420
-file_type: text/x-tex
+file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/1bf275c0667d3e903e4de22b9fb4481b_MIT18_102s21_lec8.pdf
+file_size: 236331
+file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Editable Files
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Readings
 parent_type: CourseSection
 parent_uid: f3f68fed-37d7-454c-871a-929d452ffe96
-resourcetype: Other
-title: MIT18_102s21_lec14.tex
-uid: 218774a5-403e-7677-7d65-376a03d163fc
+resourcetype: Document
+title: Lecture 8. Lebesgue Measurable Subsets and Measure
+uid: 1bf275c0-667d-3e90-3e4d-e22b9fb4481b
 video_files:
   archive_url: ''
   video_captions_file: ''
