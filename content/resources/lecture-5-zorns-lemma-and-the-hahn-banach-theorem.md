@@ -2,8 +2,8 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/e407e57ea631a29148ee94afecef7d33_MIT18_102s21_lec12.pdf
-file_size: 239456
+file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/06f9cf855f9f5eaa1898f3e684e05cec_MIT18_102s21_lec5.pdf
+file_size: 232474
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -17,9 +17,8 @@ parent_title: Lecture Notes and Readings
 parent_type: CourseSection
 parent_uid: f3f68fed-37d7-454c-871a-929d452ffe96
 resourcetype: Document
-title: Lecture 12. Lebesgue Integrable Functions, the Lebesgue Integral and the Dominated
-  Convergence Theorem
-uid: e407e57e-a631-a291-48ee-94afecef7d33
+title: Lecture 5. Zorn's Lemma and the Hahn-Banach Theorem
+uid: 06f9cf85-5f9f-5eaa-1898-f3e684e05cec
 video_files:
   archive_url: ''
   video_captions_file: ''

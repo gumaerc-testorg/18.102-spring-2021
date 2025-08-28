@@ -2,8 +2,8 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/e407e57ea631a29148ee94afecef7d33_MIT18_102s21_lec12.pdf
-file_size: 239456
+file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/859833f65ee4aec6b0fea35a300d10cd_MIT18_102s21_lec15.pdf
+file_size: 249921
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -17,9 +17,8 @@ parent_title: Lecture Notes and Readings
 parent_type: CourseSection
 parent_uid: f3f68fed-37d7-454c-871a-929d452ffe96
 resourcetype: Document
-title: Lecture 12. Lebesgue Integrable Functions, the Lebesgue Integral and the Dominated
-  Convergence Theorem
-uid: e407e57e-a631-a291-48ee-94afecef7d33
+title: Lecture 15. Orthonormal Bases and Fourier Series
+uid: 859833f6-5ee4-aec6-b0fe-a35a300d10cd
 video_files:
   archive_url: ''
   video_captions_file: ''

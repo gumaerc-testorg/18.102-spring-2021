@@ -2,24 +2,23 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/e407e57ea631a29148ee94afecef7d33_MIT18_102s21_lec12.pdf
-file_size: 239456
+file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2021/89278fd0e05842b342c81d1e93d0ee46_MIT18_102s21_hw8.pdf
+file_size: 185514
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Written Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_title: Lecture Notes and Readings
+parent_title: Assignments
 parent_type: CourseSection
-parent_uid: f3f68fed-37d7-454c-871a-929d452ffe96
+parent_uid: e46c9ff1-a75e-2f9c-e70c-8614b6621b93
 resourcetype: Document
-title: Lecture 12. Lebesgue Integrable Functions, the Lebesgue Integral and the Dominated
-  Convergence Theorem
-uid: e407e57e-a631-a291-48ee-94afecef7d33
+title: Homework 8
+uid: 89278fd0-e058-42b3-42c8-1d1e93d0ee46
 video_files:
   archive_url: ''
   video_captions_file: ''
